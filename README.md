@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋, I'm Milos
+A passionate frontend developer from Serbia
+🔭 I’m currently working on frontend and fullstack projects
+🌱 I’m currently learning React Native and Remix
 
-<!--
-**MilosRandjelovic/MilosRandjelovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 My skills - HTML, CSS, Javascript, Typescript, React, Next.js. Redux, Zustand, Jotai
+               Tailwind, Boatstrap, Sass, Shadcn, Framer Motion
+               Node.js, Express, Webpack, Postman
+               MongoDB, Drizzle, Supabase, Strapi
+               Git, Clerk, CEO, Scrum
+               
+         
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
