@@ -5,7 +5,7 @@ A passionate frontend developer from Serbia
 
 🌱 My skills - HTML, CSS, Javascript, Typescript, React, Next.js. Redux, Zustand, Jotai
                Tailwind, Bootstrap, Sass, Shadcn, Framer Motion
-               Node.js, Express, Webpack, Postman
+               Node.js, Express, Python, Django, Django REST, Webpack, Postman
                MongoDB, Drizzle, Supabase, Strapi
                Git, Clerk, CEO, Scrum
                
